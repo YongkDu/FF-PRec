@@ -1,5 +1,6 @@
 # FF-PRec
-Feature Fusion based Paper Recommendation Method  
+Feature Fusion based Paper Recommendation Method
+https://ieeexplore.ieee.org/document/9719087
 
 ## /PaperRec  
 
