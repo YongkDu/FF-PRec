@@ -10,6 +10,6 @@ FeatureEng: graph(network) feature and text feature of scholars and papers
 
 Model: code of this model  
 
-## /aminer
+## Aminer
 AMiner dataset  
 https://www.aminer.cn/data/?nav=openData
